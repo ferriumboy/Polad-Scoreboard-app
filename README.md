@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1PJy_Z0KwWgXwJGRMcYi-026UivODYEty
+View your app in AI Studio: https://6945a4aff1516d02de6ddad3--gleeful-crumble-a3d923.netlify.app/
 
 ## Run Locally
 
